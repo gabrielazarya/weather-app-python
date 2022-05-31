@@ -1,0 +1,5 @@
+Pada VS Code, pergi ke terminal
+setelah itu install ekstensi tambahan dengan cara mengetik
+"pip install requests"
+setelah itu masukan kode
+setelah selesai, cari nama negara 
